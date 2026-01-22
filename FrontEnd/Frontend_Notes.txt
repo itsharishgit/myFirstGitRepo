@@ -1,0 +1,5 @@
+frontEnd Notes 
+HTML
+CSS
+JS/TS
+Angular
